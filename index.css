@@ -1,0 +1,27 @@
+body{
+    background-color: lightskyblue;
+}
+
+
+.container{
+    width: 100px;
+    height: 100px; 
+    padding: 100px;
+    border: 2px solid green;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-bottom: 150px;
+    margin-top: 125px;
+    gap: 10px;
+} 
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
