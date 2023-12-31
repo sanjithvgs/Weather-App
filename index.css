@@ -16,6 +16,7 @@ body{
     margin-bottom: 150px;
     margin-top: 125px;
     gap: 10px;
+    text-decoration-color: blue;
 } 
 
 form{
