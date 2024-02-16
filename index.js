@@ -19,10 +19,6 @@ function fetchData(){
         .then(res => res.json())
         .then(data => console.log(data))
         .catch(function(err){
-            console.log(err);
+            console.log("Error is",err);
         })
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> c60e33545ac10ff4497ebc30dfe61b8caa9e2f0e
+    }
