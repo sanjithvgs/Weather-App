@@ -21,4 +21,8 @@ function fetchData(){
         .catch(function(err){
             console.log(err);
         })
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c60e33545ac10ff4497ebc30dfe61b8caa9e2f0e
